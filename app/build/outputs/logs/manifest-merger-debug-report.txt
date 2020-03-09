@@ -69,7 +69,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Us
 	android:allowBackup
 		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
 activity#com.example.ticaccontroller.MainActivity
 ADDED from C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name

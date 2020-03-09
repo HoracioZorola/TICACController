@@ -26,8 +26,8 @@
 18        android:supportsRtl="true"
 18-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-40
+20        android:theme="@style/Theme.AppCompat.NoActionBar" >
+20-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:11:9-59
 21        <activity android:name="com.example.ticaccontroller.MainActivity" >
 21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:9-18:20
 21-->C:\Users\Usuario\AndroidStudioProjects\TICACController\app\src\main\AndroidManifest.xml:12:19-47
