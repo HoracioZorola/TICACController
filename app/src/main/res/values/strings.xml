@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TIC AC Controller</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
 </resources>
