@@ -497,6 +497,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\697f71c0c12135256cbfe98df498a7e4\\appcompat-1.0.2\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\values-hr_values-hr.arsc.flat",
             "map": [
                 {
@@ -524,21 +539,6 @@
                         "startOffsets": "105,210,307,417,503,607,726,810,893,984,1077,1173,1267,1368,1461,1556,1655,1746,1837,1923,2027,2140,2246,2351,2464,2571,2740,2837",
                         "endColumns": "104,96,109,85,103,118,83,82,90,92,95,93,100,92,94,98,90,90,85,103,112,105,104,112,106,168,96,88",
                         "endOffsets": "205,302,412,498,602,721,805,888,979,1072,1168,1262,1363,1456,1551,1650,1741,1832,1918,2022,2135,2241,2346,2459,2566,2735,2832,2921"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21_values-ldltr-v21.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\697f71c0c12135256cbfe98df498a7e4\\appcompat-1.0.2\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
                     }
                 }
             ]
