@@ -55,7 +55,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/button_login"
-        android:text="Login"
+        android:text="@string/btnLogin"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/TxtPassword" />
@@ -68,7 +68,7 @@
         android:layout_marginTop="76dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/button_register"
-        android:text="Register"
+        android:text="@string/btnRegister"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"

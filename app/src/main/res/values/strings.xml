@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">TIC AC Controller</string>
-    <string name="Password">Password</string>
-    <string name="Email">Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="btnLogin">Ingresar</string>
+    <string name="btnRegister">Registrar</string>
 </resources>
