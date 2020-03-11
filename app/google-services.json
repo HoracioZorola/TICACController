@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376542074360",
+    "firebase_url": "https://login-dcc80.firebaseio.com",
+    "project_id": "login-dcc80",
+    "storage_bucket": "login-dcc80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376542074360:android:567252440dc3de2b52720d",
+        "android_client_info": {
+          "package_name": "com.example.ticaccontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376542074360-o5gm4f7s0qvd0qs3er19iphc6qqasa31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticaccontroller",
+            "certificate_hash": "0ee63cf48b23b214f4744d5ed7d156a0fb0f817c"
+          }
+        },
+        {
+          "client_id": "376542074360-k2u4bqq59d62dbej7nuo45r4u4nv2gmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHde3q36TG9m4o67pMBaOjHKFlHj-4hPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376542074360-k2u4bqq59d62dbej7nuo45r4u4nv2gmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
