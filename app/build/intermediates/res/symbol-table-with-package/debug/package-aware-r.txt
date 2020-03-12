@@ -673,6 +673,8 @@ drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_lock_white_24dp
+drawable ic_mail_white_24dp
 drawable logo
 drawable notification_action_background
 drawable notification_bg
@@ -884,6 +886,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_register
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

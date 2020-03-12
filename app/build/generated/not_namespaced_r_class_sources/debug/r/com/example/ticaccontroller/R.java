@@ -3484,21 +3484,23 @@ public final class R {
     public static final int googleg_standard_color_18=0x7f06006e;
     public static final int ic_launcher_background=0x7f06006f;
     public static final int ic_launcher_foreground=0x7f060070;
-    public static final int logo=0x7f060071;
-    public static final int notification_action_background=0x7f060072;
-    public static final int notification_bg=0x7f060073;
-    public static final int notification_bg_low=0x7f060074;
-    public static final int notification_bg_low_normal=0x7f060075;
-    public static final int notification_bg_low_pressed=0x7f060076;
-    public static final int notification_bg_normal=0x7f060077;
-    public static final int notification_bg_normal_pressed=0x7f060078;
-    public static final int notification_icon_background=0x7f060079;
-    public static final int notification_template_icon_bg=0x7f06007a;
-    public static final int notification_template_icon_low_bg=0x7f06007b;
-    public static final int notification_tile_bg=0x7f06007c;
-    public static final int notify_panel_notification_icon_bg=0x7f06007d;
-    public static final int tooltip_frame_dark=0x7f06007e;
-    public static final int tooltip_frame_light=0x7f06007f;
+    public static final int ic_lock_white_24dp=0x7f060071;
+    public static final int ic_mail_white_24dp=0x7f060072;
+    public static final int logo=0x7f060073;
+    public static final int notification_action_background=0x7f060074;
+    public static final int notification_bg=0x7f060075;
+    public static final int notification_bg_low=0x7f060076;
+    public static final int notification_bg_low_normal=0x7f060077;
+    public static final int notification_bg_low_pressed=0x7f060078;
+    public static final int notification_bg_normal=0x7f060079;
+    public static final int notification_bg_normal_pressed=0x7f06007a;
+    public static final int notification_icon_background=0x7f06007b;
+    public static final int notification_template_icon_bg=0x7f06007c;
+    public static final int notification_template_icon_low_bg=0x7f06007d;
+    public static final int notification_tile_bg=0x7f06007e;
+    public static final int notify_panel_notification_icon_bg=0x7f06007f;
+    public static final int tooltip_frame_dark=0x7f060080;
+    public static final int tooltip_frame_light=0x7f060081;
   }
   public static final class id {
     public static final int ALT=0x7f070000;
@@ -3701,16 +3703,17 @@ public final class R {
     public static final int abc_tooltip=0x7f09001b;
     public static final int activity_login=0x7f09001c;
     public static final int activity_main=0x7f09001d;
-    public static final int notification_action=0x7f09001e;
-    public static final int notification_action_tombstone=0x7f09001f;
-    public static final int notification_template_custom_big=0x7f090020;
-    public static final int notification_template_icon_group=0x7f090021;
-    public static final int notification_template_part_chronometer=0x7f090022;
-    public static final int notification_template_part_time=0x7f090023;
-    public static final int select_dialog_item_material=0x7f090024;
-    public static final int select_dialog_multichoice_material=0x7f090025;
-    public static final int select_dialog_singlechoice_material=0x7f090026;
-    public static final int support_simple_spinner_dropdown_item=0x7f090027;
+    public static final int activity_register=0x7f09001e;
+    public static final int notification_action=0x7f09001f;
+    public static final int notification_action_tombstone=0x7f090020;
+    public static final int notification_template_custom_big=0x7f090021;
+    public static final int notification_template_icon_group=0x7f090022;
+    public static final int notification_template_part_chronometer=0x7f090023;
+    public static final int notification_template_part_time=0x7f090024;
+    public static final int select_dialog_item_material=0x7f090025;
+    public static final int select_dialog_multichoice_material=0x7f090026;
+    public static final int select_dialog_singlechoice_material=0x7f090027;
+    public static final int support_simple_spinner_dropdown_item=0x7f090028;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0a0000;

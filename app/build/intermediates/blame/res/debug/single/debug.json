@@ -88,6 +88,10 @@
         "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_white_24dp.xml.flat",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\src\\main\\res\\drawable\\ic_lock_white_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -632,12 +636,12 @@
         "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\b989d78505a527364775fcd163b70614\\play-services-base-17.0.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -794,6 +798,10 @@
     {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -1522,6 +1530,10 @@
     {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-2\\files-2.1\\322b93496bc0a8d8306a6c7db877b529\\appcompat-1.0.2\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mail_white_24dp.xml.flat",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\src\\main\\res\\drawable\\ic_mail_white_24dp.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\TICACController\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",

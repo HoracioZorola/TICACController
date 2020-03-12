@@ -25,12 +25,15 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ImgLogo"
+        android:textColorHint="@android:color/white"
         android:hint="@string/Email"
-        android:backgroundTint="@android:color/white"/>
+        android:backgroundTint="@android:color/white"
+        android:textAllCaps="false"
+        android:drawableLeft="@drawable/ic_mail_white_24dp"/>
 
     <EditText
         android:id="@+id/TxtPassword"
@@ -44,8 +47,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/TxtEmail"
+        android:textColorHint="@android:color/white"
+        android:hint="@string/Password"
         android:backgroundTint="@android:color/white"
-        android:hint="@string/Password" />
+        android:textAllCaps="false"
+        android:drawableLeft="@drawable/ic_lock_white_24dp"/>
 
     <Button
         android:id="@+id/btnLogin"
